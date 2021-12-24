@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminVer Personal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7e28324-56f1-452e-b7f7-8c8f26a337ad</testCaseGuid>
+   <variable>
+      <defaultValue>'20211027401L000308'</defaultValue>
+      <description></description>
+      <id>b17546c5-fa08-4c3b-b227-e8e3a9808a1f</id>
+      <masked>false</masked>
+      <name>LeadsIDAdminVer</name>
+   </variable>
+</TestCaseEntity>

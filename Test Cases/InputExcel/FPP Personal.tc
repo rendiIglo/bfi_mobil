@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPP Personal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9adb30ef-93a4-424a-b796-b81705512ee1</testCaseGuid>
+   <variable>
+      <defaultValue>'Dono'</defaultValue>
+      <description></description>
+      <id>105e4b17-f334-4df1-bb81-e524adf8ccb8</id>
+      <masked>false</masked>
+      <name>txtCustomerNameFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'8986787683475574'</defaultValue>
+      <description></description>
+      <id>85c4472a-6801-4749-aa63-395eb96d7bc1</id>
+      <masked>false</masked>
+      <name>txtIDNoFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jalan Sermorganhmat No.102'</defaultValue>
+      <description></description>
+      <id>da0fd18d-e20f-4251-acac-bbc819eced3a</id>
+      <masked>false</masked>
+      <name>txtAddressFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'008'</defaultValue>
+      <description></description>
+      <id>552fda8c-172c-48e6-8b91-4383074d8d9e</id>
+      <masked>false</masked>
+      <name>txtRTFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'003'</defaultValue>
+      <description></description>
+      <id>f909e42e-4608-42e3-b25d-5c4fa965e563</id>
+      <masked>false</masked>
+      <name>txtRWFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'2912345944'</defaultValue>
+      <description></description>
+      <id>28510712-4e58-4ef0-922f-dc1a2890755a</id>
+      <masked>false</masked>
+      <name>txtMobilePhoneFPP</name>
+   </variable>
+   <variable>
+      <defaultValue>'20121'</defaultValue>
+      <description></description>
+      <id>a8351ec4-6b05-40e7-94b5-07c527088254</id>
+      <masked>false</masked>
+      <name>txtZipCodeFPP</name>
+   </variable>
+</TestCaseEntity>

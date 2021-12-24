@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Workspace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e518c137-02cc-4d86-99b6-535e58fa7df5</testCaseGuid>
+   <variable>
+      <defaultValue>'20211108401L000459'</defaultValue>
+      <description></description>
+      <id>4972f917-d638-424a-b1f4-1d2a3d264dea</id>
+      <masked>false</masked>
+      <name>LeadsIDWorkspace</name>
+   </variable>
+   <variable>
+      <defaultValue>'Database'</defaultValue>
+      <description></description>
+      <id>9dc05bed-ee94-4efd-9b2f-58a153f1592d</id>
+      <masked>false</masked>
+      <name>ddlDataType</name>
+   </variable>
+</TestCaseEntity>

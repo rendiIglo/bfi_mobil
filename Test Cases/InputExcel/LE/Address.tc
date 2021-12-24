@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84ff52a5-3e40-4fd3-aa10-e215dd445638</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09d29e31-3f28-4ada-bfe1-e6c7d5a840d6</id>
+      <masked>false</masked>
+      <name>txtAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a11277e5-430a-4aae-bb53-c178f3800700</id>
+      <masked>false</masked>
+      <name>txtRT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80564228-f855-4f8e-a7ce-235087d308b7</id>
+      <masked>false</masked>
+      <name>txtRW</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce93232b-1845-4d4e-ba07-59d9eb857d78</id>
+      <masked>false</masked>
+      <name>ddlCountry</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>916e33cb-25e5-4bf3-aae6-280697b4e1be</id>
+      <masked>false</masked>
+      <name>txtZipCode</name>
+   </variable>
+</TestCaseEntity>
